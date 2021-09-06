@@ -2,7 +2,7 @@
 
 
 ```ts
-import { S3ImagesConfig, s3Images } from '@k6-contrib/fields-s3images';
+import { S3ImagesConfig, s3Images } from '@k6-contrib/fields-s3-images';
 import 'dotenv/config';
 
 const s3sConfig: S3sConfig = {
